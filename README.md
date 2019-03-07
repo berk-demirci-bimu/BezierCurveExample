@@ -1,2 +1,0 @@
-# BezierCurveExample
-# BezierCurveExample

@@ -1,0 +1,3 @@
+﻿  bgL1-1306160028.c
+c:\users\berkd\source\repos\project2\project2\bgl1-1306160028.c(44): warning C4113: 'void (__cdecl *)()' parametre listeleri bakımından 'void (__cdecl *)(void)' öğesinden farklı
+  Project2.vcxproj -> C:\Users\berkd\source\repos\Project2\Debug\Project2.exe
