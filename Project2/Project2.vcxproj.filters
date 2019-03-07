@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="bgL1-1306160028.c">
+    <ClCompile Include="BezierCurve.c">
       <Filter>Kaynak Dosyaları</Filter>
     </ClCompile>
   </ItemGroup>
